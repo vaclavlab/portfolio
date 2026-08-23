@@ -1,9 +1,10 @@
 import React, { useState, useRef, useEffect } from 'react'
 import { useTranslation } from '../i18n/context'
+import { publicUrl } from '../lib/paths'
 
 const languages = [
-  { code: 'ru', label: 'Русский', flag: '/assets/flags/ru.png' },
-  { code: 'en', label: 'English', flag: '/assets/flags/en.png' },
+  { code: 'ru', label: 'Русский', flag: publicUrl('/assets/flags/ru.png') },
+  { code: 'en', label: 'English', flag: publicUrl('/assets/flags/en.png') },
 ] as const
 
 const LanguageSwitcher: React.FC = () => {
