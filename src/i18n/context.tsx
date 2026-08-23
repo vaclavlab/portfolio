@@ -16,8 +16,7 @@ function detectLanguage(): Language {
   if (typeof window === 'undefined') return 'en'
   const stored = window.localStorage.getItem(STORAGE_KEY) as Language | null
   if (stored === 'ru' || stored === 'en') return stored
-  const navLang = window.navigator.language?.split('-')[0]
-  return navLang === 'en' ? 'en' : 'ru'
+  return 'en'
 }
 
 export function LanguageProvider({ children }: { children: ReactNode }) {
