@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#1a1410"/>
+  <g fill="#2c241c" stroke="#c9a56a">
+    <rect x="400" y="250" width="800" height="500"/>
+    <rect x="460" y="310" width="160" height="80"/>
+    <rect x="660" y="310" width="160" height="80"/>
+    <rect x="860" y="310" width="160" height="80"/>
+  </g>
+  <text x="80" y="80" fill="#c9a56a" font-family="monospace" font-size="28">GAME · PANEL PLACEHOLDER</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#151a1d"/>
+  <g stroke="#3d4c55" stroke-width="1" fill="none">
+    <path d="M0 200 H1600 M0 400 H1600 M0 600 H1600 M0 800 H1600"/>
+    <path d="M200 0 V1000 M400 0 V1000 M600 0 V1000 M800 0 V1000 M1000 0 V1000 M1200 0 V1000 M1400 0 V1000"/>
+  </g>
+  <rect x="430" y="280" width="740" height="440" fill="#1c2429" stroke="#8aa4b3" stroke-width="3"/>
+  <rect x="470" y="320" width="280" height="360" fill="#243038" stroke="#6d8794"/>
+  <circle cx="1040" cy="430" r="90" fill="none" stroke="#8aa4b3" stroke-width="8"/>
+  <text x="80" y="80" fill="#8aa4b3" font-family="monospace" font-size="28">INDUSTRIAL · ORTHO PLACEHOLDER</text>
+</svg>

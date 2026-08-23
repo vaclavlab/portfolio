@@ -1,0 +1,100 @@
+{
+  "header": {
+    "brand-name": "Viacheslav Popkov",
+    "brand-role": "3D Artist | Industrial Designer | 3D Printing Specialist",
+    "nav-industrial": "Industrial",
+    "nav-game": "Game art",
+    "nav-about": "About",
+    "nav-contact": "Contact"
+  },
+  "home": {
+    "eyebrow": "3D artist · portfolio",
+    "lead": "Two separate showcases: product and production — separate, game assets — separate. This makes it easier for the client to understand which role they are viewing works in.",
+    "section-head-featured": "Featured",
+    "section-head-featured-description": "Selected works across different disciplines.",
+    "back-row-contact": "Write"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Who's behind the works",
+    "lead-placeholder": "{name}. 3D Generalist and Additive Manufacturing Specialist with a strong engineering and production mindset. I bridge the gap between digital 3D art, reverse engineering, physical manufacturing, and education.",
+    "section-1": "My experience covers the full cycle: from creating Game-Ready assets for Unity and Unreal Engine to high-precision 3D scanning, retopology, and designing functional parts in CAD. I have a track record of high-impact delivery, including a 3D solution that saved a university 10M RUB and leading 3D modeling training at Russian Railways (RZD).",
+    "section-2": "Stack",
+    "tools-industrial": "Industrial: {tools}",
+    "tools-game": "Game: {tools}",
+    "location": "Location: {location}. Languages: RU (Native), EN (B1), UA (B1), CZ (A2).",
+    "experience-title": "Work Experience",
+    "exp-rzd-title": "Teacher of Additional Education in 3D Modeling & Printing",
+    "exp-rzd-company": "Russian Railways (RZD)",
+    "exp-rzd-period": "January 2026 — Present",
+    "exp-rzd-desc": "Designed and delivered training modules on 3D modeling (Blender/CAD) and 3D printing technologies. Executed end-to-end additive manufacturing (FDM/SLA) workflows for internal operational needs. Mentored students in engineering projects from concept to prototype.",
+    "exp-led-title": "Reverse Engineer & 3D Artist",
+    "exp-led-company": "LedStudio",
+    "exp-led-period": "December 2024 — December 2025",
+    "exp-led-desc": "Operated professional 3D scanning equipment and executed full retopology pipelines. Designed custom auto-tuning parts and hard-surface functional components. Managed CNC machining (laser, milling) and 3D printing (FDM, SLS).",
+    "exp-urfu-title": "3D Generalist",
+    "exp-urfu-company": "Ural Federal University (UrFU)",
+    "exp-urfu-period": "December 2023 — December 2024",
+    "exp-urfu-desc": "Executed full 3D pipeline: from reference gathering and environment modeling to texturing and engine integration (Unity, Unreal Engine). Produced promotional and educational video materials. Developed a high-value 3D project that saved the university 10M RUB.",
+    "exp-upwork-title": "Freelance 3D Artist",
+    "exp-upwork-company": "Upwork",
+    "exp-upwork-period": "August 2021 — March 2022",
+    "exp-upwork-desc": "Modeled optimized game-ready environment assets and props for international mobile game developers. Communicated directly with international clients in English.",
+    "education-title": "Education",
+    "edu-urfu-degree": "Bachelor's Degree in Computer Science",
+    "edu-urfu-company": "Ural Federal University (UrFU)",
+    "edu-urfu-period": "2021 — 2025",
+    "bio": {
+      "greeting-name": "Hi! I'm Viacheslav Popkov",
+      "greeting-role": "3D Artist, Industrial Designer & Additive Manufacturing Specialist",
+      "intro": "I professionally bridge the gap between digital 3D art, reverse engineering, and physical manufacturing. I am just as passionate about creating optimized game-ready environments for Unreal Engine as I am about engineering precise, functional components for automotive tuning followed by 3D printing.",
+      "focus-label": "My Focus:",
+      "focus-text": "Full-pipeline 3D creation (from concept and sculpting to shaders and game engines), reverse engineering from scans, additive manufacturing (FDM, SLA, SLS), and CNC machining.",
+      "impact-label": "Experience & Impact:",
+      "impact-text": "With dozens of commercial projects under my belt, I also drive high-impact implementations. For instance, a project I developed for the Ural Federal University saved the institution $100K, with roadmaps successfully pitched to top-level management and state officials.",
+      "think-title": "How I Think & Work",
+      "think-1": "For me, 3D is much more than just a pretty picture on a screen. I think in terms of production, ergonomics, and optimization. If it's a game asset, it will be optimized for the engine; if it's a physical-world component, it will be engineered with material strength and printing technologies (FDM/SLA/SLS) in mind.",
+      "think-2": "Beyond creating graphics, I also teach: sharing my expertise with future engineers at Russian Railways (RZD) and guiding students from initial sketches to finished physical prototypes.",
+      "closing": "I am open to remote work, relocation, and exciting international projects. Let's create something awesome together!"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "lead": "Always open to collaboration.",
+    "mailto": "mailto",
+    "telegram": "Telegram",
+    "artstation": "LinkedIn"
+  },
+  "not-found": {
+    "title": "404",
+    "description": "Page not found.",
+    "home": "Home"
+  },
+  "footer": {
+    "name": "VACLAVLAB · portfolio · 2026"
+  },
+  "project-card": {
+    "eyebrow": "{sphere} · {year}",
+    "title": "{title}"
+  },
+  "sphere-page": {
+    "eyebrow": "{label}",
+    "title": "{title}",
+    "audience": "For whom: {audience}",
+    "back": "{other} →"
+  },
+  "work-page": {
+    "eyebrow": "{sphere} · {year}",
+    "title": "{title}",
+    "role": "Role: {role}",
+    "context": "Context: {context}",
+    "video": "Video / showreel",
+    "section-task": "Task",
+    "section-solution": "Solution",
+    "section-result": "Result",
+    "tool-list": "Tools",
+    "gallery": "Gallery",
+    "nav-prev": "← {title}",
+    "nav-next": "{title} →"
+  }
+}

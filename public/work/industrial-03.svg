@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#14181b"/>
+  <g fill="#22303a" stroke="#8aa4b3" stroke-width="2">
+    <rect x="280" y="360" width="280" height="220"/>
+    <rect x="580" y="360" width="280" height="220"/>
+    <rect x="880" y="360" width="280" height="220"/>
+  </g>
+  <text x="80" y="80" fill="#8aa4b3" font-family="monospace" font-size="28">INDUSTRIAL · MODULE PLACEHOLDER</text>
+</svg>

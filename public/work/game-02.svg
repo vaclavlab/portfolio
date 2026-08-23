@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#161310"/>
+  <polygon points="200,820 800,220 1400,820" fill="#2b241c" stroke="#c9a56a" stroke-width="3"/>
+  <rect x="760" y="180" width="80" height="280" fill="#c9a56a"/>
+  <text x="80" y="80" fill="#c9a56a" font-family="monospace" font-size="28">GAME · ENVIRONMENT PLACEHOLDER</text>
+</svg>

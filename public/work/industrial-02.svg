@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#121618"/>
+  <ellipse cx="800" cy="540" rx="420" ry="90" fill="#0d1012"/>
+  <rect x="620" y="220" width="360" height="480" rx="40" fill="#2a343a" stroke="#8aa4b3" stroke-width="4"/>
+  <rect x="660" y="280" width="280" height="80" fill="#3a4a52"/>
+  <text x="80" y="80" fill="#8aa4b3" font-family="monospace" font-size="28">INDUSTRIAL · PRODUCT PLACEHOLDER</text>
+</svg>
